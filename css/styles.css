@@ -59,7 +59,7 @@ body {
 header {
   color: #282828;
 }
-header h1 {
+.home header h1 {
   font-family: "MovistarHeadlineRegular", sans-serif;
   color: #FFF !important;
   font-size: 32px;
@@ -708,6 +708,7 @@ section#product {
 .section.portfolio-content h1{
   text-align: center;
   margin-bottom: 30px !important;
+  color: #149abd;
 }
 .section.portfolio-content .item{
   text-align: center;
