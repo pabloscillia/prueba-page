@@ -1,0 +1,47 @@
+.navbar-header {
+	float: left;
+}
+.navbar .phone{
+	float: right;
+}
+body {
+	background-image: none !important;
+}
+.col-md-6 {
+	width: 50%;
+	float: left;
+}
+.col-md-12 {
+	width: 100%;
+	float: left;
+}
+
+.manageres-form .decument-type input[type='text'] {
+	width: 75%;
+	float: left;
+}
+
+.manageres-form .phone_type input[type='text'] {
+	width: 75%;
+	float: left;
+}
+
+.manageres-form div.error, .formPage div.error {
+	width: 100%;
+	float: left;
+}
+
+.container
+{
+    display:table;
+    width: 100%;
+}
+.row
+{
+    height: 100%;
+    display: table-row;
+}
+.col-sm-4
+{
+    display: table-cell;
+}
