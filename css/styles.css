@@ -382,7 +382,7 @@ input[type="text"] {
   background-position: center -60px;
   background-attachment: fixed;
   background-size: cover;
-  min-height: 500px;
+  min-height: 470px;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
