@@ -250,7 +250,7 @@ input[type="text"] {
   margin-bottom: 20px;
 }
 .section.explore h3 {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 30px;
   color: #515559;
   font-family: "MovistarText", sans-serif;
@@ -268,7 +268,7 @@ input[type="text"] {
 }
 .section.explore .items p{
   font-size: 18px;
-  line-height: 22px;
+  line-height: 24px;
   padding: 10px;
   font-family: "MovistarText", sans-serif;
 }
@@ -278,7 +278,7 @@ input[type="text"] {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    min-height: 740px;
+    min-height: 620px;
 }
 .section.explore.editor .text-left{
   margin-top: 40px;
@@ -292,7 +292,7 @@ input[type="text"] {
 
 .section.explore .text-left p{
   font-family: "MovistarText", sans-serif;
-  font-size: 22px;
+  font-size: 20px;
   margin-top: 20px;
   font-weight: 300;
   line-height: 30px;
