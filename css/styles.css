@@ -383,6 +383,18 @@ input[type="text"] {
   background-attachment: fixed;
   background-size: cover;
   min-height: 500px;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+   -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .intro a,
@@ -403,9 +415,6 @@ input[type="text"] {
 }
 .intro .content {
   color: #ffffff;
-}
-.intro .content.top {
-  margin-top: 70px;
 }
 .intro .content header {
   color: #ffffff;
