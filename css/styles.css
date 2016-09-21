@@ -1088,11 +1088,6 @@ section#product {
     background-size: cover;
   }
 }
-@media (max-width: 1999px)  {
-  .intro {
-    height: 80%;
-  }
-}
 @media (max-width: 992px)  {
   .intro {
     height: auto;
