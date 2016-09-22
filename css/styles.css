@@ -779,6 +779,11 @@ section#product {
   font-size: 20px;
   margin-bottom: 30px;
 }
+.section.prices p.promo{
+  font-size:20px;
+  margin-bottom:0px;
+  margin-top:20px;
+}
 .section.prices .itemLeft{
   background-color: #ececec;
   width: 75%;
@@ -1126,7 +1131,7 @@ section#product {
     text-align: center !important;
     border-right: 0 !important;
     height: auto;
-    padding: 20px 60px;
+    padding: 10px 60px;
   }
   .table tbody tr td:nth-child(3) {
     padding: 0;
